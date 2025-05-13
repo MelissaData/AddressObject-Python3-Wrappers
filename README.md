@@ -14,7 +14,7 @@ For further details, please visit: https://www.melissa.com/reference-guides/addr
 
 - Windows 10 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa Address Object for 2025-04
+- Melissa Address Object for 2025-05
 - Wrapper file(s) have not changed since 2025-02
 
 ## Getting Started
