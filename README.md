@@ -6,23 +6,23 @@ This is the code for you to run Address Object in Python3.
     
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For latest Melissa Address Object release notes, please visit: https://releasenotes.melissa.com/on-premise-api/address-object/
+To view the latest Melissa Address Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/address-object/
 
 For further details, please visit: https://www.melissa.com/reference-guides/address-object
 
 ## Tested Environments
 
-- Windows 10 64-bit Python 3.8.7, Powershell 5.1
+- Windows 11 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa Address Object for 2026-01
+- Melissa Address Object for 2026-02
 - Wrapper file(s) have not changed since 2025-02
 
 ## Getting Started
 
 ### Download this project
 ```
-git clone https://github.com/MelissaData/AddressObject-Python3-Wrappers
-cd AddressObject-Python3-Wrappers
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissaaddressobjectpython3wrappers
+cd melissaaddressobjectpython3wrappers
 ```
 
 ### Copy wrappers to your project folder
