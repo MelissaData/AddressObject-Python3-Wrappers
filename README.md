@@ -21,8 +21,8 @@ For further details, please visit: https://www.melissa.com/reference-guides/addr
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissaaddressobjectpython3wrappers
-cd melissaaddressobjectpython3wrappers
+git clone https://github.com/MelissaData/AddressObject-Python3-Wrappers
+cd AddressObject-Python3-Wrappers
 ```
 
 ### Copy wrappers to your project folder
